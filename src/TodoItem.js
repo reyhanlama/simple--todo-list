@@ -4,7 +4,7 @@ const TodoItem = () => {
   return (
     <div className="todo-item">
       <input type="checkbox" />
-      <p>placeholder text</p>
+      <p>Placeholder text</p>
     </div>
   )
 }
